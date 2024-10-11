@@ -3,16 +3,16 @@
   "version": "3.4.8",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
-  "homepage": "https://github.com/passion0401lad/request-ip-check",
+  "homepage": "https://github.com/kishi0401/request-ip-check",
   "bugs": {
-    "url": "https://github.com/passion0401lad/request-ip-check/issues"
+    "url": "https://github.com/kishi0401/request-ip-check/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/passion0401lad/request-ip-check.git"
+    "url": "https://github.com/kishi0401/request-ip-check.git"
   },
   "license": "MIT",
-  "author": "Runar Eiji <passion0401lad@gmail.com>",
+  "author": "Runar Eiji <kishimorie41@gmail.com>",
   "contributors": [
     {
       "name": "Jon Peck",
